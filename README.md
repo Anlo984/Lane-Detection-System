@@ -1,6 +1,7 @@
 # Lane Detection System using Canny Edge Detection
 
 This repository contains a lane detection system that uses Canny edge detection algorithm to detect the lanes in an image or video stream. The system is implemented in Python using OpenCV library.
+![Screenshot 2023-05-05 124305](https://user-images.githubusercontent.com/82042123/236397346-d7e4c12c-044e-47d2-80a5-f881d38b68d4.jpg)
 
 ## Installation
 
